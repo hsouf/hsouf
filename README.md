@@ -6,7 +6,7 @@
 - ✔️ Goals: Build a wallet free society & make people trust each other again using blockchain
 - ✔️ I’m currently learning HyperledgerFabric/composer ✍
 - ✔️ Words I use everyday ? :  Defi, cryptocurrencies and decentralized
-- ✔️ Blockchain projects I follow ? : Solana, Likecoin, EOS and Cardano
+- ✔️ Blockchain projects I follow ? : Solana, Likecoin, MetaMUI, EOS and Cardano
 
 ### Connect with me:
 
