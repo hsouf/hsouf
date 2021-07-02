@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=hsouf&color=orange)
 ### Hello World, I'm Soufiane :genie_man:
 
-## I'm a software and blockchain engineer !
+## I'm a blockchain developer !
 
 - ✔️ Goals: Build a wallet free society & make people trust each other again using blockchain
 - ✔️ I’m currently learning HyperledgerFabric/composer ✍
