@@ -11,7 +11,7 @@
 ### Connect with me:
 
 - [Linkedin](https://www.linkedin.com/in/soufiane-hajazi/) <br/>
-
+- Email : soufiane_hajazi@um5.ac.ma
 
 
 ### Languages and Tools:
