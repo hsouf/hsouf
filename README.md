@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=hsouf&color=orange)
 ### Hello World, I'm Soufiane :genie_man:
 
-## I'm a blockchain developer !
+## I'm a Solidity developer !
 
-- ✔️ Goals: Build a wallet free society & make people trust each other again using blockchain
-- ✔️ I’m currently learning HyperledgerFabric/composer ✍
+- ✔ Goals: Build a wallet free society & make people trust each other again using blockchain
+- ✔️ I’m currently learning Rust ✍
 - ✔️ Words I use everyday ? :  Defi, cryptocurrencies and decentralized
 - ✔️ Blockchain projects I follow ? : Solana, Likecoin, MetaMUI, EOS and Cardano
 
