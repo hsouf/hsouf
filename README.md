@@ -4,7 +4,7 @@
 ## I'm a Solidity developer !
 
 - ✔ Goals: Build a wallet free society & make people trust each other again using blockchain
-- ✔️ I’m currently learning Rust ✍
+- ✔️ I’m currently learning Rust & Haskell :dart:
 - ✔️ Words I use everyday ? :  Defi, cryptocurrencies and decentralized
 - ✔️ Blockchain projects I follow ? : Solana, Likecoin, MetaMUI, EOS and Cardano
 
