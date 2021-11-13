@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=hsouf&color=orange)
-### Hello World, I'm Soufiane :genie_man:
+### Hello World, I'm Soufiane 
 
 ## I'm a Solidity/Web3 developer !
 
@@ -10,7 +10,7 @@
 ### Connect with me:
 
 - [Linkedin](https://www.linkedin.com/in/soufiane-hajazi/) <br/>
-- Email : soufiane.hajazi@bchain.ma
+- Email : soufiane.hajazi@bchain.ma or soufianehajazi23@gmail.com
 
 
 ### Languages and Tools:
