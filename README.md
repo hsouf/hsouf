@@ -10,7 +10,7 @@ On Ethereum, L2, Stellar, IPFS, Avalanche & HyperledgerFabric
 ### Connect with me:
 
 - [Linkedin](https://www.linkedin.com/in/soufiane-hajazi/) <br/>
-- Email : soufiane.hajazi@bchain.ma or soufianehajazi23@gmail.com
+- Email :  soufianehajazi23@gmail.com
 
 
 ### Languages and Tools:
