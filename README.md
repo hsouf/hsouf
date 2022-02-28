@@ -5,7 +5,7 @@
 I build: dApps, DEX,DAO, DeFi Protocols & CBDCs
 On Ethereum, L2, Stellar, IPFS, Avalanche & HyperledgerFabric
 -  Goals: Build a wallet free society & make people trust each other again using blockchain
--  Blockchain projects I follow ? : Solana, Likecoin, Filecoin, MetaMUI, EOS and Cardano
+-  Blockchain projects I follow: Solana, Likecoin, Filecoin, MetaMUI, ZkSync, EOS and Cardano
 
 ### Connect with me:
 
