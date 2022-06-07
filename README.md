@@ -2,8 +2,8 @@
 ### Hello World, I'm Soufiane 
 
 ## I'm a Solidity/Web3 developer !
-I build: dApps, DEX,DAO, DeFi Protocols & CBDCs
-On Ethereum, L2, Stellar, IPFS, Avalanche & HyperledgerFabric
+I build: dApps, DEX, DAO, DeFi Protocols 
+on Ethereum, L2, Stellar, Starknet & HyperledgerFabric
 -  Goals: Build a wallet free society & make people trust each other again using blockchain
 -  Blockchain projects I follow: Solana, Likecoin, Filecoin, MetaMUI, ZkSync, EOS and Cardano
 
