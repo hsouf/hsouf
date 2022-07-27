@@ -5,7 +5,7 @@
 I build: dApps, DEX, DAO, DeFi Protocols 
 on Ethereum, L2, Stellar, Starknet & HyperledgerFabric
 -  Goals: Build a wallet free society & make people trust each other again using blockchain
--  Blockchain projects I follow: Solana, Likecoin, Filecoin, MetaMUI, ZkSync, EOS and Cardano
+-  Blockchain projects I follow: Solana, Filecoin, MetaMUI, ZkSync, Starknet, EOS and Cardano
 
 ### Connect with me:
 
