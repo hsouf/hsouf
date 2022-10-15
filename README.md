@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=hsouf&color=orange)
 ### Hello World, I'm Soufiane 
 
-## I'm a Solidity/Web3 developer !
-I build: dApps, DEX, DAO, DeFi Protocols 
-on Ethereum, L2, Stellar, Starknet & HyperledgerFabric
+## I'm a blockchain engineer !
+Busy building the brave new web
+on Ethereum, Cosmos, Starknet & HyperledgerFabric
 -  Goals: Build a wallet free society & make people trust each other again using blockchain
 -  Blockchain projects I follow: Solana, Filecoin, MetaMUI, ZkSync, Starknet, EOS and Cardano
 
@@ -20,8 +20,9 @@ on Ethereum, L2, Stellar, Starknet & HyperledgerFabric
 
 
 
-<img align="left" alt="ETHER" width="35px" src="https://user-images.githubusercontent.com/37840702/124105377-138fc380-da5b-11eb-81e9-8348af1d6295.png" />
 
+<img align="left" alt="ETHER" width="35px" src="https://user-images.githubusercontent.com/37840702/124105377-138fc380-da5b-11eb-81e9-8348af1d6295.png" />
+<img align="left" alt="golang" width="35px" src="https://user-images.githubusercontent.com/37840702/196007717-72f50d1f-c063-4b9e-8deb-65591b85f633.png" />
 
 <img align="left" alt="solidity" width="35px" src="https://user-images.githubusercontent.com/37840702/124106210-e859a400-da5b-11eb-8fca-7607c401dcb1.png" />
 <img align="left" alt="Nodejs" width="50px" src="https://user-images.githubusercontent.com/37840702/125656949-61bf2228-5fc1-449b-bc83-b05579d14286.png" />
