@@ -51,6 +51,7 @@ on Ethereum, Cosmos, Starknet & HyperledgerFabric
 <br />
 
 <a href="https://github.com/hsouf?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=hsouf&line_height=40&show_icons=true">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=hsouf&line_height=40&show_icons=true&theme=tokyonight">
 </a>
+
 
