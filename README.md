@@ -1,16 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=hsouf&color=orange)
 ### Hello World, I'm Soufiane 
 
-## I'm a blockchain engineer !
-Busy building the brave new web
-on Ethereum, Cosmos, Starknet & HyperledgerFabric
--  Goals: Build a wallet free society & make people trust each other again using blockchain
--  Blockchain projects I follow: Solana, Filecoin, MetaMUI, ZkSync, Starknet, EOS and Cardano
+## Busy building the brave new web!
 
 ### Connect with me:
-
-- [Linkedin](https://www.linkedin.com/in/soufiane-hajazi/) <br/>
-- Email :  soufianehajazi23@gmail.com
+🤝[Linkedin](https://www.linkedin.com/in/soufiane-hajazi/)
 
 
 
